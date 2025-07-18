@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap manual (para rastreo)
+https://renovarg.github.io/renovarg/
+https://renovarg.github.io/renovarg/#participar
+https://renovarg.github.io/renovarg/#contacto
+https://renovarg.github.io/renovarg/#tecnica
+https://renovarg.github.io/renovarg/#faq
+https://renovarg.github.io/renovarg/#roadmap
+https://renovarg.github.io/renovarg/#equipo

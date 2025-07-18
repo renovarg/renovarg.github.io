@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://renovarg.github.io/renovarg/</loc>
+  </url>
+  <url>
+    <loc>https://renovarg.github.io/renovarg/#participar</loc>
+  </url>
+  <url>
+    <loc>https://renovarg.github.io/renovarg/#contacto</loc>
+  </url>
+  <url>
+    <loc>https://renovarg.github.io/renovarg/#tecnica</loc>
+  </url>
+  <url>
+    <loc>https://renovarg.github.io/renovarg/#faq</loc>
+  </url>
+  <url>
+    <loc>https://renovarg.github.io/renovarg/#roadmap</loc>
+  </url>
+  <url>
+    <loc>https://renovarg.github.io/renovarg/#equipo</loc>
+  </url>
+</urlset>
